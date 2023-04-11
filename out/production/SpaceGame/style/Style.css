@@ -1,0 +1,46 @@
+.table-row-cell {
+    -fx-background-color: transparent;
+    -fx-font-size:20px;
+}
+
+
+.table-view {
+    -fx-base: transparent;
+    -fx-padding: 10 10 10 10;
+    -fx-border-radius: 5;
+    -fx-background-color: transparent;
+}
+
+.table-view .column-header {
+    -fx-background-color: transparent;
+    -fx-font-weight:bold;
+    -fx-font-size:30px;
+    -fx-border-width: 0 0 2 0;
+    -fx-border-color: black;
+}
+
+.table-column{
+    -fx-alignment: CENTER;
+    -fx-text-fill: white;
+    -fx-font-weight:bold;
+    -fx-font-size:20px;
+}
+
+GridPane {
+    -fx-background-color: transparent;
+    -fx-padding: 40 20 10 40;
+
+}
+
+GridPane .label{
+    -fx-font-size: 40 bold;
+}
+
+.combo-box  {
+    -fx-background: white;
+    -fx-text-fill: -fx-text-base-color;
+    -fx-font-size: 20;
+    -fx-pref-width: 200;
+}
+
+
