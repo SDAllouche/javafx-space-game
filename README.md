@@ -28,6 +28,6 @@ Here, there are some screenshots :
 
 ## License 
 
-[MIT License](LICENSE)
+[MIT License](License)
 
 
